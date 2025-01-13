@@ -1,6 +1,7 @@
 # SimpleCalculator
 Simple Tkinter Calculator :abacus:
-Welcome to the Simple Tkinter Calculator project! This beginner-friendly repository is designed to help new programmers understand the basics of Python and Tkinter by building a fully functional calculator GUI application.
+
+###### Welcome to the Simple Tkinter Calculator project! This beginner-friendly repository is designed to help new programmers understand the basics of Python and Tkinter by building a fully functional calculator GUI application.
 
 :sparkles: Project Overview
 This project creates a simple calculator using the Tkinter library in Python. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division, along with some additional functionalities like square root, percentage calculation, and a backspace feature to correct mistakes.
