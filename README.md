@@ -11,6 +11,6 @@ This project creates a simple calculator using the Tkinter library in Python. Th
 - [x] Functions: Calculate square roots, convert numbers to percentages, and easily correct errors with a backspace button.
 - [x] Handling: The calculator can handle common input errors and display a friendly error message.
 - [x] GUI: A simple and intuitive interface built with Tkinter that's easy for anyone to use.
--:gear: Technologies Used
+- Technologies Used
 Python 3: A powerful, expressive programming language that's easy to learn.
 Tkinter: A standard GUI library for Python, used for creating simple and effective user interfaces.
